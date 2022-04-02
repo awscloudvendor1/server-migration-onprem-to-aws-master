@@ -4,8 +4,6 @@ Using `VM Import` migrate your existing VM-based applications and preserve the s
 
 ![Fig : Migrate Your Existing Applications and Workloads to Amazon EC2](https://raw.githubusercontent.com/miztiik/server-migration-onprem-to-aws/master/images/miztiik-server-migration-onprem-to-aws-2.png)
 
-#### Follow this article in [Youtube](https://youtu.be/buzusNljpy4)
-
 0. ## Prerequisites
 
     - OnPremise VM (_Preferably in VMWare / Virtualbox_)
